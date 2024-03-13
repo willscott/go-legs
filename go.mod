@@ -2,7 +2,6 @@ module github.com/filecoin-project/go-legs
 
 go 1.21
 
-
 require (
 	github.com/filecoin-project/go-data-transfer v1.15.2
 	github.com/hashicorp/go-multierror v1.1.1
