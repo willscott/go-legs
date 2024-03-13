@@ -1,6 +1,7 @@
 module github.com/filecoin-project/go-legs
 
-go 1.20
+go 1.21
+
 
 require (
 	github.com/filecoin-project/go-data-transfer v1.15.2
